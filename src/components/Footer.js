@@ -43,14 +43,14 @@ const Footer = () => {
               <div className="footer-social--icons">
                 <div>
                   <a
-                    href="https://www.linkedin.com/in/shivam-saurabh-095764195/"
+                    href="https://www.linkedin.com/in/shivamsaurabh25/"
                     target="_blank" rel="noreferer">
                   <FaLinkedin className="icons" />
                   </a>
                 </div>
                 <div>
                   <a
-                    href="https://www.instagram.com/shivam_saurabh_45/"
+                    href="https://www.instagram.com/shivamsaurabh25/"
                     target="_blank" rel="noreferer">
                   <FaInstagram className="icons" />
                   </a>
